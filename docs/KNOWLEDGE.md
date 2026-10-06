@@ -146,3 +146,4 @@ public/brand/                inward-logo.png/jpg, spiral.png; src/app/icon.png, 
 - 2026-10-04: scaffold, public pages, SEO, contact form, seed.
 - 2026-10-05: slot engine, availability, Google service-account sync (replaced later); live booking without payment; Google-Calendar-style picker; pastel redesign.
 - 2026-10-06: OAuth connect replaces the service account; Add to Google Calendar; schedule-independent tests; created this knowledge base.
+- 2026-10-06: pushed to GitHub (github.com/eivydasbalcius/inward) with fresh history in 15 logical commits; stale template files removed (Docker, Mongo compose, .yarnrc). Commit email: eivydasbalcius@gmail.com (repo-local config).
